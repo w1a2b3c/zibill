@@ -21,9 +21,7 @@
 
 ### 主题预览
 - **视频预览**:  
-  - 链接: [https://www.souyuanzhan.com/pay-zibll](https://www.souyuanzhan.com/pay-zibll)  
-  - 视频源: [https://gcore.jsdelivr.net/gh/vipy800/viptu/img/001.mp4](https://gcore.jsdelivr.net/gh/vipy800/viptu/img/001.mp4)  
-  - 备用图片: [https://gcore.jsdelivr.net/gh/vipy800/viptu/img/zibll-2.webp](https://gcore.jsdelivr.net/gh/vipy800/viptu/img/zibll-2.webp)  
+  - 链接: https://zibovip.top/子比主题-好用的主题-官方购买页面
 
 - **文档说明幻灯片**:  
   1. ![文档说明 1](https://gcore.jsdelivr.net/gh/vipy800/viptu/img/zibll-0.webp)  
